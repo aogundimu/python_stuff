@@ -1,0 +1,63 @@
+    Rank             Country  Documents  Citable documents  Citations  \
+0      1               China     127050             126767     597237   
+1      2       United States      96661              94747     792274   
+2      3               Japan      30504              30287     223024   
+3      4      United Kingdom      20944              20357     206091   
+4      5  Russian Federation      18534              18301      34266   
+5      6              Canada      17899              17620     215003   
+6      7             Germany      17027              16831     140566   
+7      8               India      15005              14841     128763   
+8      9              France      13153              12973     130632   
+9     10         South Korea      11983              11923     114675   
+10    11               Italy      10964              10794     111850   
+11    12               Spain       9428               9330     123336   
+12    13                Iran       8896               8819      57470   
+13    14           Australia       8831               8725      90765   
+14    15              Brazil       8668               8596      60702
+
+
+   Rank             Country  Documents  Citable documents  Citations  \
+0     2       United States      96661              94747     792274   
+1     4      United Kingdom      20944              20357     206091   
+2     5  Russian Federation      18534              18301      34266   
+3     6              Canada      17899              17620     215003   
+4     7             Germany      17027              16831     140566   
+5     8               India      15005              14841     128763   
+6    10         South Korea      11983              11923     114675   
+7    13                Iran       8896               8819      57470   
+8    15              Brazil       8668               8596      60702
+
+
+1                           China     127050             126767   
+1       2                   United States      96661              94747   
+2       3                           Japan      30504              30287   
+3       4                  United Kingdom      20944              20357   
+4       5              Russian Federation      18534              18301   
+5       6                          Canada      17899              17620   
+6       7                         Germany      17027              16831   
+7       8                           India      15005              14841   
+8       9                          France      13153              12973   
+9      10                     South Korea      11983              11923   
+10     11                           Italy      10964              10794   
+11     12                           Spain       9428               9330   
+12     13                            Iran       8896               8819   
+13     14                       Australia       8831               8725   
+14     15                          Brazil
+
+
+
+0       1                           China     127050             126767   
+1       2                   United States      96661              94747   
+2       3                           Japan      30504              30287   
+3       4                  United Kingdom      20944              20357   
+4       5              Russian Federation      18534              18301   
+5       6                          Canada      17899              17620   
+6       7                         Germany      17027              16831   
+7       8                           India      15005              14841   
+8       9                          France      13153              12973   
+9      10                     South Korea      11983              11923   
+10     11                           Italy      10964              10794   
+11     12                           Spain       9428               9330   
+12     13                            Iran       8896               8819   
+13     14                       Australia       8831               8725   
+14     15                          Brazil       8668               8596   

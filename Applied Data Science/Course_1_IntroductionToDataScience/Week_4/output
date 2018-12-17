@@ -1,0 +1,64 @@
+             State                    RegionName
+1          Alabama                        Auburn
+2          Alabama                      Florence
+3          Alabama                  Jacksonville
+4          Alabama                    Livingston
+5          Alabama                    Montevallo
+6          Alabama                          Troy
+7          Alabama                    Tuscaloosa
+8          Alabama                      Tuskegee
+10          Alaska                     Fairbanks
+12         Arizona                     Flagstaff
+13         Arizona                         Tempe
+14         Arizona                        Tucson
+16        Arkansas                   Arkadelphia
+17        Arkansas                        Conway
+18        Arkansas                  Fayetteville
+19        Arkansas                     Jonesboro
+20        Arkansas                      Magnolia
+21        Arkansas                    Monticello
+22        Arkansas                  Russellville
+23        Arkansas                        Searcy
+25      California                        Angwin
+26      California                        Arcata
+27      California                      Berkeley
+28      California                         Chico
+29      California                     Claremont
+30      California                        Cotati
+31      California                         Davis
+32      California                        Irvine
+33      California                    Isla Vista
+34      California  University Park, Los Angeles
+..             ...                           ...
+533       Virginia                          Wise
+534       Virginia                    Chesapeake
+536     Washington                    Bellingham
+537     Washington                        Cheney
+538     Washington                    Ellensburg
+539     Washington                       Pullman
+540     Washington  University District, Seattle
+542  West Virginia                        Athens
+543  West Virginia                    Buckhannon
+544  West Virginia                      Fairmont
+545  West Virginia                     Glenville
+546  West Virginia                    Huntington
+547  West Virginia                    Montgomery
+548  West Virginia                    Morgantown
+549  West Virginia                 Shepherdstown
+550  West Virginia                  West Liberty
+552      Wisconsin                      Appleton
+553      Wisconsin                    Eau Claire
+554      Wisconsin                     Green Bay
+555      Wisconsin                     La Crosse
+556      Wisconsin                       Madison
+557      Wisconsin                     Menomonie
+558      Wisconsin                     Milwaukee
+559      Wisconsin                       Oshkosh
+560      Wisconsin                   Platteville
+561      Wisconsin                   River Falls
+562      Wisconsin                 Stevens Point
+563      Wisconsin                      Waukesha
+564      Wisconsin                    Whitewater
+566        Wyoming                       Laramie
+
+[517 rows x 2 columns]
